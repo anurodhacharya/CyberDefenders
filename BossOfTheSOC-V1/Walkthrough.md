@@ -2,4 +2,3 @@
 
 --> This question as it states is just to make you familiar with the platform.
     Answer: splunk
-    
